@@ -2,9 +2,9 @@
 
 namespace Strategy
 {
-    class Program
+    internal static class Program
     {
-        static void Main()
+        private static void Main()
         {
             // Паттерн Стратегия!
 
