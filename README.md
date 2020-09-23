@@ -1,1 +1,1 @@
-"# SharpPatterns" 
+# SharpPatterns
