@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{DAF918EF-10B2-453F-A5C4-C6A0E742027C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{39FB0A08-5433-49CD-81B7-614DAA2FDFAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{DAF918EF-10B2-453F-A5C4-C6A0E742027C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF918EF-10B2-453F-A5C4-C6A0E742027C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF918EF-10B2-453F-A5C4-C6A0E742027C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FB0A08-5433-49CD-81B7-614DAA2FDFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FB0A08-5433-49CD-81B7-614DAA2FDFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FB0A08-5433-49CD-81B7-614DAA2FDFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FB0A08-5433-49CD-81B7-614DAA2FDFAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
